@@ -1,0 +1,31 @@
+project:
+    type: website
+    output-dir: docs
+
+website:
+    title: "Hannah Sworn"
+    navbar:
+      left:
+        - href: index.qmd
+          text: Home
+        - href: research.qmd
+          text: Research
+        - href: teaching.qmd
+          text: Teaching
+        - href: cv.qmd
+          text: CV
+    page-footer:
+      center:
+        - icon: twitter-x
+          href: https://twitter.com/HannahSworn
+          aria-label: Twitter/X
+        - icon: linkedin
+          href: https://www.linkedin.com/in/hannahelysesworn/
+          aria-label: LinkedIn
+        - icon: cloud
+          href: https://bsky.app/profile/hannahsworn.bsky.social
+          aria-label: Bluesky
+format:
+    html:
+      theme: cosmo
+      css: styles.css

@@ -1,0 +1,73 @@
+---
+title: "Research"
+---
+
+## Dissertation
+Ask and You Might Receive: Borrower Agency and US-China Competition in Development Finance.
+
+<details>                                                                          
+<summary>Abstract</summary> 
+
+What explains how international institutions adapt during periods of great power competition? The rise of Chinese official development finance has challenged the dominance of US-backed Western multilateral development banks (MDBs) such as the World Bank, whose survival is also threatened from within by globalization backlash. Existing studies emphasize how these institutions respond to these challenges based on the interests of the US and its allies or internal organizational concerns, overlooking how competition creates opportunities for borrowers to shape institutional evolution. I argue that MDB adaptation reflects the interaction between borrower demand, based on economic ideology, and MDB responsiveness, shaped by resource dependence on G5 shareholders. I test the predictions of my theory using a triple difference-in-differences quantitative analysis and process tracing across four Southeast Asian case studies (Indonesia, Thailand, Cambodia, and the Philippines). This study speaks to debates on institutional change amidst great power competition and the drivers of international economic order.
+
+</details>
+  
+## Articles
+[Opening Markets, One Threat at a Time: How US Pressure Shapes Global Trade](https://doi.org/10.1080/09692290.2026.2689578) (with Adam Dean and Kenneth C Shadlen). *Review of International Political Economy* (Online first), pp. 1–29. 
+
+<details>                                                                          
+<summary>Abstract</summary> 
+
+Since the 1980s, the United States has unilaterally pressured many developing countries to open their markets to American exports. Despite such pressure coinciding with trade liberalization around the world, prior research largely concludes that US pressure was ineffective. This paper challenges this conventional wisdom by mitigating selection bias in previous studies, which focused on late-stage forms of pressure such as Section 301 investigations and sanctions. In contrast, this paper estimates the effect of US pressure starting at an earlier stage: inclusion in the US’ National Trade Estimate (NTE) Report. Using a staggered difference-in-differences design with data on 157 developing countries from 1980 through 2020, we find that US pressure significantly increased imports from the US, with targeted countries increasing imports by 26.6% more than non-targeted countries after five years. We also find evidence that US pressure is especially effective on countries with high levels of trade dependence on the US. We supplement these quantitative results with qualitative evidence from US efforts to open cigarette markets abroad, demonstrating the effectiveness of US pressure associated with the NTE. The research provides important insights for understanding the exploitation of power asymmetries to enact policy change, an increasingly prominent feature of the contemporary global political economy.
+
+</details>
+
+[Strategic Ambiguity and the Trumpian Approach to China–Taiwan Relations](https://doi.org/10.1093/ia/iiaa160) (with Hoo Tiang Boon). *International Affairs* (November 2020), 96-6, pp. 1487–1508.<br>
+*— RSIS Award for Policy Relevant Journal Article* 
+
+<details>                                                                          
+<summary>Abstract</summary> 
+  
+The notion of strategic ambiguity has long guided the United States’ engagement in cross-strait relations, requiring that Washington is intentionally unclear about whether and how it would intervene in a China–Taiwan conflict in order to preserve a balance of assurance and deterrence for both sides. This article unpacks the US approach to strategic ambiguity under Trump. Adopting a neo-classical realist perspective, it argues that domestic and individual level drivers—in particular, US populism, Congress and the foreign policy establishment, and Trump's transactional and personalized approach to foreign policy—have interacted with the shifting US–China balance of power to produce a different mode of American strategic ambiguity in the Taiwan Strait. A common view is that as a function of the growing US–China power competition, the US has largely leaned towards Taiwan in recent years. Our analysis revises this assessment by revealing a form of strategic ambiguity under Trump that, despite appearing to upset the balance of ambiguity in favour of Taiwan—paradoxically and probably unintentionally—maintains assurances and warnings for both China and Taiwan. Yet, while Trump has arguably preserved the overall balance of strategic ambiguity, he has introduced greater volatility into cross-strait relations.
+
+</details> 
+
+## Book Chapters
+[Brunei Darussalam as ASEAN's 2021 Chair](https://www.kas.de/documents/264850/15647932/Chapter+2.pdf/9c1ebe58-3ae2-9d4f-0343-33ec1b0cdb4a?version=1.4&t=1639741932801)  (with Mathew L. Bukit). In *Cambodia's ASEAN Chairmanship in 2022: Priorities and Challenges,* edited by Leng Thearith, Cheunboran Chanborey, Lim Menghour, Kimly Nguon, Maurizio Paciello, and Lim Chhay (Phnom Penh: KAS & AVI, 2021).
+
+## Working Papers
+What Borrowers Want: Borrower Agency, Economic Ideology and Institutional Adaptation under Development Finance Competition.
+
+<details>                                                                          
+<summary>Abstract</summary>
+  
+How do international institutions adapt during periods of great power competition? The rise of Chinese official development finance has challenged the dominance of US-backed economic institutions, including Western multilateral development banks (MDBs) such as the World Bank. Existing studies emphasize how MDBs respond to competition based on US interests or organizational concerns. Yet, competition creates opportunities for borrowing countries to exercise agency and influence institutional change. Drawing on Cold War history, I theorize that borrowers leverage competition based on their economic ideology about state versus market control over capital. State-capitalist borrowers use Chinese finance to negotiate larger loans and less conditionality from Western MDBs, whilst free-market borrowers embrace conditionality and avoid larger public debt. Using a triple difference-in-differences model and novel economic ideology index, I find that MDBs increase funding but not condition amounts for state-capitalist borrowers. Instead, they alter the composition of conditions, reducing financial and privatization reforms that constrain state investment while increasing others to manage the risks of these adjustments. By offering a borrower-centered account of institutional change in development finance, this study speaks to debates on the drivers of international economic order during great power competition.
+
+</details> 
+
+Regionalism and Regulatory Resistance: ASEAN’s Governance of Falsified Pharmaceuticals.
+
+<details>                                                                          
+<summary>Abstract</summary>
+  
+Under what conditions can developing countries resist adopting costly economic regulations advanced by great powers? The existing literature assumes great powers prevail in regulatory conflicts with smaller states, overlooking cases of resistance. I posit a novel theory of regulatory resistance, arguing that norms allow regional intergovernmental organizations (IGOs) of developing countries to engage in regulatory behavior that conflicts with the preferences of one or more great powers. Strong regional norms facilitate resistance in the face of great power pressures and when member interests diverge. However, structural conditions determine the form of resistance: passive (non-adoption of regulations) when great powers have a united regulatory position or active (pursuit of alternative regulations) when they are divided. I conduct process tracing of primary documents to demonstrate that, between 2004-2018, the Association of Southeast Asian Nations (ASEAN) passively resisted united US-EU pressure to regulate falsified pharmaceuticals as an intellectual property (IP) issue due to ASEAN’s flexible IP norm. From 2019, ASEAN shifted to active resistance, regulating falsified pharmaceuticals as a health issue under a divided structural environment produced by China’s rise and US-EU conflict. This paper challenges the dominant perspective on economic order as shaped primarily by great powers, contributes to debates on economic convergence, and highlights the importance of political inaction in international politics.
+
+</details> 
+
+## Work in Progress
+Chinese Aid and Democracy in Recipient States.
+
+Does Chinese Development Finance Undermine Western Aid Conditionality? The Role of Regional Norms and Southeast Asia.
+
+China’s Unilateralism and the ‘Alliance Allergy’ of Rising Powers (with Evan N Resnick).
+
+## Policy Publications
+[China and the Alliance Allergy of Rising Powers](https://warontherocks.com/2023/05/china-and-the-alliance-allergy-of-rising-powers/) (with Evan N Resnick). *War on the Rocks*, May 30 2023.
+
+[US–China Economic Competition Rests on Intellectual Property](https://www.eastasiaforum.org/2022/06/29/us-china-economic-competition-rests-on-intellectual-property/) (with Manoj Harjani). *East Asia Forum*, June 29 2022.
+
+[Global Power Shift with the Prick of a Needle](https://newshub.360info.org/wire?item=143f716c-e695-461c-a39e-e6f895f6d8b2). *360info*, December 8 2021.
+
+[COVID-19 is Reshaping Global Pharmaceutical Competition—to Asia's Benefit](https://thediplomat.com/2021/10/covid-19-is-reshaping-global-pharmaceutical-competition-to-asias-benefit/). *The Diplomat*, October 8 2021.
+
+[How will the Biden Administration Handle China-Taiwan Relations?](https://medium.com/international-affairs-blog/how-will-the-biden-administration-handle-china-taiwan-relations-fe03c407ce8c). *International Affairs Blog*, November 27 2020.

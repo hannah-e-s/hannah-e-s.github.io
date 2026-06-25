@@ -1,0 +1,21 @@
+---
+title: "Hannah Sworn"
+image: photo.jpg
+about:
+    template: trestles
+    image-width: 200px
+    links:
+      - icon: envelope
+        text: hannahsworn@gwu.edu
+        href: mailto:hannahsworn@gwu.edu
+      - icon: google
+        text: Google Scholar
+        href: https://scholar.google.com/citations?hl=en&user=9E092ZEAAAAJ&view_op=list_works&gmla=AEk_c1u7EH0kl8XGafpYuA04ZxJ1v_z-pQk7VeCG6BbsX9_XatjSNNs2z7buOgrsc0tdQZTQDCliDgZ43l1qhFRQ
+      - icon: person-badge
+        text: ORCID
+        href: https://orcid.org/0000-0002-3408-0841
+---
+
+I am a PhD candidate in the Department of Political Science at George Washington University. My research focuses on international political economy, development finance, great power competition, and pharmaceutical intellectual property. I am particularly interested in the political economy of small-state agency amidst great power competition, with a regional focus on Southeast Asia. My research has been published in the *Review of International Political Economy* and *International Affairs*.
+
+I hold an MSc in International Relations from the S. Rajaratnam School of International Studies (RSIS) at Nanyang Technological University Singapore and a BA in International Studies from Monash University. Prior to my PhD, I was a Senior Analyst at RSIS and worked in development in Cambodia, where I also grew up from the age of four.
